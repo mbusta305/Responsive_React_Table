@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AAAA,EAAG,CACD,KAAK,CAAE,KAAK,CACZ,SAAS,CAAE,IAAI,CAGjB,MAAO,CACL,UAAU,CAAE,MAAM,CAClB,MAAM,CAAE,IAAI,CACZ,OAAO,CAAE,IAAI,CCNf,wCAAyC,CCFzC,EAAG,CACD,KAAK,CAAE,IAAI,CACX,SAAS,CAAE,IAAI,CAGjB,MAAO,CACL,UAAU,CAAE,MAAM,CAClB,MAAM,CAAE,IAAI,CACZ,OAAO,CAAE,IAAI,EDFf,2CAA4C,CEN5C,EAAG,CACD,KAAK,CAAE,MAAM,CACb,SAAS,CAAE,IAAI,CAGjB,MAAO,CACL,UAAU,CAAE,MAAM,CAClB,MAAM,CAAE,IAAI,CACZ,OAAO,CAAE,IAAI",
+"sources": ["../sass/_phone.scss","../sass/styles.scss","../sass/_tablet.scss","../sass/_desktop.scss"],
 "names": [],
 "file": "styles.css"
 }

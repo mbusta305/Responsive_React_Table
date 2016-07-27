@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import ResponsiveTable from './components/ResponsiveTable';
 
 var App = React.createClass({
-  render() {
-    return (
-      <div>Hello</div>
+  render: function () {
+    return(
+      <div>
+        <ResponsiveTable />
+      </div>
     )
-  };
+  }
 });
 
 export default App;
