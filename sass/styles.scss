@@ -1,9 +1,3 @@
+@import "desktop";
+
 @import "phone";
-
-@media only screen and (min-width: 45em) {
-  @import "tablet";
-}
-
-@media only screen and (min-width: 64.25em) {
-  @import "desktop";
-}

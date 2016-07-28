@@ -1,10 +1,18 @@
-h1 {
-  color: orange;
-  font-size: 50px;
+table {
+  width: 100%;
+  border-collapse: collapse;
 }
-
-.title {
-  text-align: center;
-  margin: 20px;
-  padding: 10px;
+/* Zebra striping */
+tr:nth-of-type(odd) {
+  background: #eee;
+}
+th {
+  background: #333;
+  color: white;
+  font-weight: bold;
+}
+td, th {
+  padding: 6px;
+  border: 1px solid #ccc;
+  text-align: left;
 }
